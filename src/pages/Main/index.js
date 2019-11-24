@@ -1,12 +1,24 @@
 import React from 'react';
+import Icon from 'react-native-vector-icons/MaterialIcons';
 
-import {View, Text} from 'react-native';
+import {Container, Input, Form, SubmitButton} from './styles';
 
-const Main = () => (
-  <View>
-    <Text>Oi!</Text>
-  </View>
-);
+const Main = () => {
+  return (
+    <Container>
+      <Form>
+        <Input
+          autoCorrect={false}
+          autoCapitalize="none"
+          placeholder="Adicionar Usuário"
+        />
+        <SubmitButton>
+          <Icon name="add" size={20} color="#fff" />
+        </SubmitButton>
+      </Form>
+    </Container>
+  );
+};
 
 Main.navigationOptions = {
   title: 'Home',
