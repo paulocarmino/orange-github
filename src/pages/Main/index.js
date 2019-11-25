@@ -15,6 +15,7 @@ import {
   Bio,
   ProfileButton,
   ProfileButtonText,
+  ClearButton,
 } from './styles';
 import api from '../../services/api';
 
@@ -67,13 +68,18 @@ const Main = () => {
     Keyboard.dismiss();
   };
 
+  const handleClearList = async () => {
+    await AsyncStorage.setItem('@users', JSON.stringify([]));
+    setUsers([]);
+  };
+
   return (
     <Container>
       <Form>
         <Input
           ref={usernameInputRef}
-          autoCorrect={false}
           autoCapitalize="none"
+          autoCorrect={false}
           placeholder="Adicionar Usuário"
           onChangeText={text => setNewUser({username: text})}
           returnKeyType="send"
@@ -103,6 +109,11 @@ const Main = () => {
           </User>
         )}
       />
+      {users.length > 0 && (
+        <ClearButton onPress={() => handleClearList()}>
+          <ProfileButtonText>Limpar Lista</ProfileButtonText>
+        </ClearButton>
+      )}
     </Container>
   );
 };

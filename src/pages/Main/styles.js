@@ -86,3 +86,13 @@ export const ProfileButtonText = styled.Text`
   color: #fff;
   text-transform: uppercase;
 `;
+
+export const ClearButton = styled(RectButton)`
+  margin-top: 10px;
+  align-self: stretch;
+  border-radius: 4px;
+  background: #f56d6d;
+  justify-content: center;
+  align-items: center;
+  height: 36px;
+`;
