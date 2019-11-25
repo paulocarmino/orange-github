@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'MeuPrimeiroLayoutFoda' do
-  # Pods for MeuPrimeiroLayoutFoda
+target 'OrangeGithub' do
+  # Pods for OrangeGithub
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -36,7 +36,7 @@ target 'MeuPrimeiroLayoutFoda' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
-  target 'MeuPrimeiroLayoutFodaTests' do
+  target 'OrangeGithubTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -44,10 +44,10 @@ target 'MeuPrimeiroLayoutFoda' do
   use_native_modules!
 end
 
-target 'MeuPrimeiroLayoutFoda-tvOS' do
-  # Pods for MeuPrimeiroLayoutFoda-tvOS
+target 'OrangeGithub-tvOS' do
+  # Pods for OrangeGithub-tvOS
 
-  target 'MeuPrimeiroLayoutFoda-tvOSTests' do
+  target 'OrangeGithub-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

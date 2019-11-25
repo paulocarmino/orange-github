@@ -1,4 +1,4 @@
-package com.meuprimeirolayoutfoda;
+package com.paulocarmino.orangegithub;
 
 import android.app.Application;
 import android.content.Context;

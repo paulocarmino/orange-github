@@ -33,7 +33,7 @@ const Main = () => {
           setUsers(value);
         }
       } catch (error) {
-        console.log(error);
+        // console.log(error);
       }
     };
     retrieveData();

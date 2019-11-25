@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.m */; };
+		00E356F31AD99517003FC87E /* OrangeGithubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrangeGithubTests.m */; };
 		047125B7154A4FA5952D3D6D /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8EE70A29DEE846989E0D9A7A /* Zocial.ttf */; };
 		070C213171E04B7381DCB17E /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09F2F530D13A4C83916397D0 /* EvilIcons.ttf */; };
 		0AB65995D56444D881BF546A /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6B27F38EEB244EFBBC7913E /* Octicons.ttf */; };
@@ -19,23 +19,23 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* MeuPrimeiroLayoutFodaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.m */; };
-		443952F2FD6764279FDC93D3 /* libPods-MeuPrimeiroLayoutFoda.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5DCC1E01DB363746D84D288 /* libPods-MeuPrimeiroLayoutFoda.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* OrangeGithubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrangeGithubTests.m */; };
+		443952F2FD6764279FDC93D3 /* libPods-OrangeGithub.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5DCC1E01DB363746D84D288 /* libPods-OrangeGithub.a */; };
 		495D59ED321E4C3898D7AA3F /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 95D116FDB386431D8CF29B99 /* FontAwesome5_Solid.ttf */; };
 		4C3B92DFA94142739F3C7068 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5D8791AD36E44768A371F27 /* FontAwesome5_Brands.ttf */; };
 		531213B6DE3F41529C9D30BD /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5161284A5152454AA03DE5BB /* MaterialIcons.ttf */; };
 		56366070BDCD4226891EC118 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8AE92E55BA01411885FFD667 /* Entypo.ttf */; };
 		61EBC997E0F04279ABFD4529 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1BFAB34523A84BE7A15936AD /* MaterialCommunityIcons.ttf */; };
 		66877C5BBC74458CA4DB5977 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96E21094E96F4610ABB2943B /* Ionicons.ttf */; };
-		70D8023B06B0CD52E623772E /* libPods-MeuPrimeiroLayoutFodaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE542CDDFAAE7871BA82E4A4 /* libPods-MeuPrimeiroLayoutFodaTests.a */; };
+		70D8023B06B0CD52E623772E /* libPods-OrangeGithubTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE542CDDFAAE7871BA82E4A4 /* libPods-OrangeGithubTests.a */; };
 		74E7C0C42FBB419AA5765000 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 99F7872F1A5942B99CB3B446 /* AntDesign.ttf */; };
 		7E9962BE586346339DB6E58F /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5DD20825DC204D759891E231 /* Feather.ttf */; };
 		8BE0E79C281E4AE4BF66D574 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23DEB696142B41219BFE467F /* FontAwesome.ttf */; };
 		A84333A48EC244058B62EC7F /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BE60FEDF22244E79D389673 /* Fontisto.ttf */; };
-		AE068F5770DD1B27C886BF2B /* libPods-MeuPrimeiroLayoutFoda-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5720CB62447C8931592C7DE5 /* libPods-MeuPrimeiroLayoutFoda-tvOS.a */; };
+		AE068F5770DD1B27C886BF2B /* libPods-OrangeGithub-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5720CB62447C8931592C7DE5 /* libPods-OrangeGithub-tvOS.a */; };
 		AFCDD0E250FF49BEAC280AD9 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 933CF4C96EF0438AB7DD8FFF /* Foundation.ttf */; };
 		EE6FA18375DB4EA3A64C87DF /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5EAC9DCE10A471AB1578AD2 /* SimpleLineIcons.ttf */; };
-		FEC3853A999694C6C94F880C /* libPods-MeuPrimeiroLayoutFoda-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F01276753BC98C43A53A5AB /* libPods-MeuPrimeiroLayoutFoda-tvOSTests.a */; };
+		FEC3853A999694C6C94F880C /* libPods-OrangeGithub-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F01276753BC98C43A53A5AB /* libPods-OrangeGithub-tvOSTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,43 +44,43 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = MeuPrimeiroLayoutFoda;
+			remoteInfo = OrangeGithub;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "MeuPrimeiroLayoutFoda-tvOS";
+			remoteInfo = "OrangeGithub-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeuPrimeiroLayoutFodaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* OrangeGithubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OrangeGithubTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeuPrimeiroLayoutFodaTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* OrangeGithubTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OrangeGithubTests.m; sourceTree = "<group>"; };
 		09F2F530D13A4C83916397D0 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* MeuPrimeiroLayoutFoda.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeuPrimeiroLayoutFoda.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = MeuPrimeiroLayoutFoda/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = MeuPrimeiroLayoutFoda/AppDelegate.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* OrangeGithub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrangeGithub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = OrangeGithub/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = OrangeGithub/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MeuPrimeiroLayoutFoda/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MeuPrimeiroLayoutFoda/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MeuPrimeiroLayoutFoda/main.m; sourceTree = "<group>"; };
-		1A45AC3AE63FA2A2B5E70502 /* Pods-MeuPrimeiroLayoutFoda.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFoda.debug.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFoda/Pods-MeuPrimeiroLayoutFoda.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = OrangeGithub/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = OrangeGithub/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = OrangeGithub/main.m; sourceTree = "<group>"; };
+		1A45AC3AE63FA2A2B5E70502 /* Pods-OrangeGithub.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithub.debug.xcconfig"; path = "Target Support Files/Pods-OrangeGithub/Pods-OrangeGithub.debug.xcconfig"; sourceTree = "<group>"; };
 		1BFAB34523A84BE7A15936AD /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		23DEB696142B41219BFE467F /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
-		2981F092321C4E9F1E632B0C /* Pods-MeuPrimeiroLayoutFoda-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFoda-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFoda-tvOSTests/Pods-MeuPrimeiroLayoutFoda-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MeuPrimeiroLayoutFoda-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MeuPrimeiroLayoutFoda-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3DB606307167C35F6BB2BDA8 /* Pods-MeuPrimeiroLayoutFodaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFodaTests.debug.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFodaTests/Pods-MeuPrimeiroLayoutFodaTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2981F092321C4E9F1E632B0C /* Pods-OrangeGithub-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithub-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-OrangeGithub-tvOSTests/Pods-OrangeGithub-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* OrangeGithub-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OrangeGithub-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* OrangeGithub-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OrangeGithub-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DB606307167C35F6BB2BDA8 /* Pods-OrangeGithubTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithubTests.debug.xcconfig"; path = "Target Support Files/Pods-OrangeGithubTests/Pods-OrangeGithubTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5161284A5152454AA03DE5BB /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
-		5720CB62447C8931592C7DE5 /* libPods-MeuPrimeiroLayoutFoda-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeuPrimeiroLayoutFoda-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5720CB62447C8931592C7DE5 /* libPods-OrangeGithub-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrangeGithub-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DD20825DC204D759891E231 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
-		5F01276753BC98C43A53A5AB /* libPods-MeuPrimeiroLayoutFoda-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeuPrimeiroLayoutFoda-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F01276753BC98C43A53A5AB /* libPods-OrangeGithub-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrangeGithub-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BE60FEDF22244E79D389673 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
-		6D25F202A1B6F2743A965727 /* Pods-MeuPrimeiroLayoutFoda.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFoda.release.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFoda/Pods-MeuPrimeiroLayoutFoda.release.xcconfig"; sourceTree = "<group>"; };
+		6D25F202A1B6F2743A965727 /* Pods-OrangeGithub.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithub.release.xcconfig"; path = "Target Support Files/Pods-OrangeGithub/Pods-OrangeGithub.release.xcconfig"; sourceTree = "<group>"; };
 		74AC3CC172884A0BACCAACD0 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		8AE92E55BA01411885FFD667 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		8EE70A29DEE846989E0D9A7A /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
@@ -88,17 +88,17 @@
 		95D116FDB386431D8CF29B99 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		96E21094E96F4610ABB2943B /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		99F7872F1A5942B99CB3B446 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
-		ACB212362DF8804A8BEFCD26 /* Pods-MeuPrimeiroLayoutFoda-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFoda-tvOS.release.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFoda-tvOS/Pods-MeuPrimeiroLayoutFoda-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		B5DCC1E01DB363746D84D288 /* libPods-MeuPrimeiroLayoutFoda.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeuPrimeiroLayoutFoda.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C3A3E4F51F54A203AC31E054 /* Pods-MeuPrimeiroLayoutFodaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFodaTests.release.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFodaTests/Pods-MeuPrimeiroLayoutFodaTests.release.xcconfig"; sourceTree = "<group>"; };
-		CE542CDDFAAE7871BA82E4A4 /* libPods-MeuPrimeiroLayoutFodaTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeuPrimeiroLayoutFodaTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D11E2807773AAEF2563DF53B /* Pods-MeuPrimeiroLayoutFoda-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFoda-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFoda-tvOS/Pods-MeuPrimeiroLayoutFoda-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		ACB212362DF8804A8BEFCD26 /* Pods-OrangeGithub-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithub-tvOS.release.xcconfig"; path = "Target Support Files/Pods-OrangeGithub-tvOS/Pods-OrangeGithub-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		B5DCC1E01DB363746D84D288 /* libPods-OrangeGithub.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrangeGithub.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3A3E4F51F54A203AC31E054 /* Pods-OrangeGithubTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithubTests.release.xcconfig"; path = "Target Support Files/Pods-OrangeGithubTests/Pods-OrangeGithubTests.release.xcconfig"; sourceTree = "<group>"; };
+		CE542CDDFAAE7871BA82E4A4 /* libPods-OrangeGithubTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrangeGithubTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D11E2807773AAEF2563DF53B /* Pods-OrangeGithub-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithub-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-OrangeGithub-tvOS/Pods-OrangeGithub-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		D5EAC9DCE10A471AB1578AD2 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		E6B27F38EEB244EFBBC7913E /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		F5D8791AD36E44768A371F27 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
-		F7C94EEE269BFFD3B5AE468D /* Pods-MeuPrimeiroLayoutFoda-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeuPrimeiroLayoutFoda-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-MeuPrimeiroLayoutFoda-tvOSTests/Pods-MeuPrimeiroLayoutFoda-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F7C94EEE269BFFD3B5AE468D /* Pods-OrangeGithub-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrangeGithub-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-OrangeGithub-tvOSTests/Pods-OrangeGithub-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70D8023B06B0CD52E623772E /* libPods-MeuPrimeiroLayoutFodaTests.a in Frameworks */,
+				70D8023B06B0CD52E623772E /* libPods-OrangeGithubTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -114,7 +114,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				443952F2FD6764279FDC93D3 /* libPods-MeuPrimeiroLayoutFoda.a in Frameworks */,
+				443952F2FD6764279FDC93D3 /* libPods-OrangeGithub.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,7 +122,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE068F5770DD1B27C886BF2B /* libPods-MeuPrimeiroLayoutFoda-tvOS.a in Frameworks */,
+				AE068F5770DD1B27C886BF2B /* libPods-OrangeGithub-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,20 +130,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEC3853A999694C6C94F880C /* libPods-MeuPrimeiroLayoutFoda-tvOSTests.a in Frameworks */,
+				FEC3853A999694C6C94F880C /* libPods-OrangeGithub-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* MeuPrimeiroLayoutFodaTests */ = {
+		00E356EF1AD99517003FC87E /* OrangeGithubTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.m */,
+				00E356F21AD99517003FC87E /* OrangeGithubTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = MeuPrimeiroLayoutFodaTests;
+			path = OrangeGithubTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -154,7 +154,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* MeuPrimeiroLayoutFoda */ = {
+		13B07FAE1A68108700A75B9A /* OrangeGithub */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -165,7 +165,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = MeuPrimeiroLayoutFoda;
+			name = OrangeGithub;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -173,10 +173,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				B5DCC1E01DB363746D84D288 /* libPods-MeuPrimeiroLayoutFoda.a */,
-				5720CB62447C8931592C7DE5 /* libPods-MeuPrimeiroLayoutFoda-tvOS.a */,
-				5F01276753BC98C43A53A5AB /* libPods-MeuPrimeiroLayoutFoda-tvOSTests.a */,
-				CE542CDDFAAE7871BA82E4A4 /* libPods-MeuPrimeiroLayoutFodaTests.a */,
+				B5DCC1E01DB363746D84D288 /* libPods-OrangeGithub.a */,
+				5720CB62447C8931592C7DE5 /* libPods-OrangeGithub-tvOS.a */,
+				5F01276753BC98C43A53A5AB /* libPods-OrangeGithub-tvOSTests.a */,
+				CE542CDDFAAE7871BA82E4A4 /* libPods-OrangeGithubTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -191,9 +191,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* MeuPrimeiroLayoutFoda */,
+				13B07FAE1A68108700A75B9A /* OrangeGithub */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* MeuPrimeiroLayoutFodaTests */,
+				00E356EF1AD99517003FC87E /* OrangeGithubTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				D86A859D4A7420366493A063 /* Pods */,
@@ -207,10 +207,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* MeuPrimeiroLayoutFoda.app */,
-				00E356EE1AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* OrangeGithub.app */,
+				00E356EE1AD99517003FC87E /* OrangeGithubTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* OrangeGithub-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* OrangeGithub-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -242,14 +242,14 @@
 		D86A859D4A7420366493A063 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1A45AC3AE63FA2A2B5E70502 /* Pods-MeuPrimeiroLayoutFoda.debug.xcconfig */,
-				6D25F202A1B6F2743A965727 /* Pods-MeuPrimeiroLayoutFoda.release.xcconfig */,
-				D11E2807773AAEF2563DF53B /* Pods-MeuPrimeiroLayoutFoda-tvOS.debug.xcconfig */,
-				ACB212362DF8804A8BEFCD26 /* Pods-MeuPrimeiroLayoutFoda-tvOS.release.xcconfig */,
-				F7C94EEE269BFFD3B5AE468D /* Pods-MeuPrimeiroLayoutFoda-tvOSTests.debug.xcconfig */,
-				2981F092321C4E9F1E632B0C /* Pods-MeuPrimeiroLayoutFoda-tvOSTests.release.xcconfig */,
-				3DB606307167C35F6BB2BDA8 /* Pods-MeuPrimeiroLayoutFodaTests.debug.xcconfig */,
-				C3A3E4F51F54A203AC31E054 /* Pods-MeuPrimeiroLayoutFodaTests.release.xcconfig */,
+				1A45AC3AE63FA2A2B5E70502 /* Pods-OrangeGithub.debug.xcconfig */,
+				6D25F202A1B6F2743A965727 /* Pods-OrangeGithub.release.xcconfig */,
+				D11E2807773AAEF2563DF53B /* Pods-OrangeGithub-tvOS.debug.xcconfig */,
+				ACB212362DF8804A8BEFCD26 /* Pods-OrangeGithub-tvOS.release.xcconfig */,
+				F7C94EEE269BFFD3B5AE468D /* Pods-OrangeGithub-tvOSTests.debug.xcconfig */,
+				2981F092321C4E9F1E632B0C /* Pods-OrangeGithub-tvOSTests.release.xcconfig */,
+				3DB606307167C35F6BB2BDA8 /* Pods-OrangeGithubTests.debug.xcconfig */,
+				C3A3E4F51F54A203AC31E054 /* Pods-OrangeGithubTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -258,9 +258,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* MeuPrimeiroLayoutFodaTests */ = {
+		00E356ED1AD99517003FC87E /* OrangeGithubTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFodaTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OrangeGithubTests" */;
 			buildPhases = (
 				A5F20CFBC7F65C76EC758AC1 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -272,14 +272,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = MeuPrimeiroLayoutFodaTests;
-			productName = MeuPrimeiroLayoutFodaTests;
-			productReference = 00E356EE1AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.xctest */;
+			name = OrangeGithubTests;
+			productName = OrangeGithubTests;
+			productReference = 00E356EE1AD99517003FC87E /* OrangeGithubTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* MeuPrimeiroLayoutFoda */ = {
+		13B07F861A680F5B00A75B9A /* OrangeGithub */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFoda" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OrangeGithub" */;
 			buildPhases = (
 				0A0A008BD729CA82B1A69FFD /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -293,14 +293,14 @@
 			);
 			dependencies = (
 			);
-			name = MeuPrimeiroLayoutFoda;
-			productName = MeuPrimeiroLayoutFoda;
-			productReference = 13B07F961A680F5B00A75B9A /* MeuPrimeiroLayoutFoda.app */;
+			name = OrangeGithub;
+			productName = OrangeGithub;
+			productReference = 13B07F961A680F5B00A75B9A /* OrangeGithub.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* OrangeGithub-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFoda-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrangeGithub-tvOS" */;
 			buildPhases = (
 				DDF82BC180B0F044659BF59A /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -313,14 +313,14 @@
 			);
 			dependencies = (
 			);
-			name = "MeuPrimeiroLayoutFoda-tvOS";
-			productName = "MeuPrimeiroLayoutFoda-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOS.app */;
+			name = "OrangeGithub-tvOS";
+			productName = "OrangeGithub-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* OrangeGithub-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* OrangeGithub-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFoda-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrangeGithub-tvOSTests" */;
 			buildPhases = (
 				E469D503F99BB07A8D7707C8 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -332,9 +332,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "MeuPrimeiroLayoutFoda-tvOSTests";
-			productName = "MeuPrimeiroLayoutFoda-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOSTests.xctest */;
+			name = "OrangeGithub-tvOSTests";
+			productName = "OrangeGithub-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* OrangeGithub-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -361,7 +361,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MeuPrimeiroLayoutFoda" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OrangeGithub" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -374,10 +374,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* MeuPrimeiroLayoutFoda */,
-				00E356ED1AD99517003FC87E /* MeuPrimeiroLayoutFodaTests */,
-				2D02E47A1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* OrangeGithub */,
+				00E356ED1AD99517003FC87E /* OrangeGithubTests */,
+				2D02E47A1E0B4A5D006451C7 /* OrangeGithub-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* OrangeGithub-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -462,7 +462,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MeuPrimeiroLayoutFoda-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrangeGithub-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -498,7 +498,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MeuPrimeiroLayoutFodaTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrangeGithubTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -520,7 +520,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MeuPrimeiroLayoutFoda-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrangeGithub-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -542,7 +542,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MeuPrimeiroLayoutFoda-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrangeGithub-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -555,7 +555,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MeuPrimeiroLayoutFoda/Pods-MeuPrimeiroLayoutFoda-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-OrangeGithub/Pods-OrangeGithub-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -594,7 +594,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MeuPrimeiroLayoutFoda/Pods-MeuPrimeiroLayoutFoda-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-OrangeGithub/Pods-OrangeGithub-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -642,7 +642,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* MeuPrimeiroLayoutFodaTests.m in Sources */,
+				00E356F31AD99517003FC87E /* OrangeGithubTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -668,7 +668,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* MeuPrimeiroLayoutFodaTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* OrangeGithubTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -677,12 +677,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* MeuPrimeiroLayoutFoda */;
+			target = 13B07F861A680F5B00A75B9A /* OrangeGithub */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* MeuPrimeiroLayoutFoda-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* OrangeGithub-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -694,7 +694,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = MeuPrimeiroLayoutFoda;
+			path = OrangeGithub;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -702,14 +702,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3DB606307167C35F6BB2BDA8 /* Pods-MeuPrimeiroLayoutFodaTests.debug.xcconfig */;
+			baseConfigurationReference = 3DB606307167C35F6BB2BDA8 /* Pods-OrangeGithubTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = MeuPrimeiroLayoutFodaTests/Info.plist;
+				INFOPLIST_FILE = OrangeGithubTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -719,17 +719,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeuPrimeiroLayoutFoda.app/MeuPrimeiroLayoutFoda";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrangeGithub.app/OrangeGithub";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C3A3E4F51F54A203AC31E054 /* Pods-MeuPrimeiroLayoutFodaTests.release.xcconfig */;
+			baseConfigurationReference = C3A3E4F51F54A203AC31E054 /* Pods-OrangeGithubTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = MeuPrimeiroLayoutFodaTests/Info.plist;
+				INFOPLIST_FILE = OrangeGithubTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -739,18 +739,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeuPrimeiroLayoutFoda.app/MeuPrimeiroLayoutFoda";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrangeGithub.app/OrangeGithub";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A45AC3AE63FA2A2B5E70502 /* Pods-MeuPrimeiroLayoutFoda.debug.xcconfig */;
+			baseConfigurationReference = 1A45AC3AE63FA2A2B5E70502 /* Pods-OrangeGithub.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = MeuPrimeiroLayoutFoda/Info.plist;
+				INFOPLIST_FILE = OrangeGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -758,18 +758,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = MeuPrimeiroLayoutFoda;
+				PRODUCT_NAME = OrangeGithub;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6D25F202A1B6F2743A965727 /* Pods-MeuPrimeiroLayoutFoda.release.xcconfig */;
+			baseConfigurationReference = 6D25F202A1B6F2743A965727 /* Pods-OrangeGithub.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = MeuPrimeiroLayoutFoda/Info.plist;
+				INFOPLIST_FILE = OrangeGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -777,14 +777,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = MeuPrimeiroLayoutFoda;
+				PRODUCT_NAME = OrangeGithub;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D11E2807773AAEF2563DF53B /* Pods-MeuPrimeiroLayoutFoda-tvOS.debug.xcconfig */;
+			baseConfigurationReference = D11E2807773AAEF2563DF53B /* Pods-OrangeGithub-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -795,14 +795,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "MeuPrimeiroLayoutFoda-tvOS/Info.plist";
+				INFOPLIST_FILE = "OrangeGithub-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MeuPrimeiroLayoutFoda-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrangeGithub-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -812,7 +812,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ACB212362DF8804A8BEFCD26 /* Pods-MeuPrimeiroLayoutFoda-tvOS.release.xcconfig */;
+			baseConfigurationReference = ACB212362DF8804A8BEFCD26 /* Pods-OrangeGithub-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -823,14 +823,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "MeuPrimeiroLayoutFoda-tvOS/Info.plist";
+				INFOPLIST_FILE = "OrangeGithub-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MeuPrimeiroLayoutFoda-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrangeGithub-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -840,7 +840,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F7C94EEE269BFFD3B5AE468D /* Pods-MeuPrimeiroLayoutFoda-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = F7C94EEE269BFFD3B5AE468D /* Pods-OrangeGithub-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -850,24 +850,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "MeuPrimeiroLayoutFoda-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "OrangeGithub-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MeuPrimeiroLayoutFoda-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrangeGithub-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeuPrimeiroLayoutFoda-tvOS.app/MeuPrimeiroLayoutFoda-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrangeGithub-tvOS.app/OrangeGithub-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2981F092321C4E9F1E632B0C /* Pods-MeuPrimeiroLayoutFoda-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 2981F092321C4E9F1E632B0C /* Pods-OrangeGithub-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -877,17 +877,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "MeuPrimeiroLayoutFoda-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "OrangeGithub-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MeuPrimeiroLayoutFoda-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrangeGithub-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeuPrimeiroLayoutFoda-tvOS.app/MeuPrimeiroLayoutFoda-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrangeGithub-tvOS.app/OrangeGithub-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -994,7 +994,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFodaTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OrangeGithubTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1003,7 +1003,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFoda" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OrangeGithub" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1012,7 +1012,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFoda-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrangeGithub-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1021,7 +1021,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MeuPrimeiroLayoutFoda-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrangeGithub-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1030,7 +1030,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MeuPrimeiroLayoutFoda" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OrangeGithub" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

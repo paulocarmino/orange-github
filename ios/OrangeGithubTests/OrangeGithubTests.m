@@ -14,11 +14,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface MeuPrimeiroLayoutFodaTests : XCTestCase
+@interface OrangeGithubTests : XCTestCase
 
 @end
 
-@implementation MeuPrimeiroLayoutFodaTests
+@implementation OrangeGithubTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
