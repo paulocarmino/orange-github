@@ -27,31 +27,24 @@ const Main = () => {
   useEffect(() => {
     const retrieveData = async () => {
       try {
-        if (users.length <= 0) {
-          const hasUsers = await AsyncStorage.getItem('@users');
-          const value = JSON.parse(hasUsers);
-          setUsers(value);
+        const value = await AsyncStorage.getItem('@users');
+        if (value !== null) {
+          setUsers(JSON.parse(value));
         }
-      } catch (error) {
-        // console.log(error);
-      }
+      } catch (e) {}
     };
     retrieveData();
-  });
+  }, []);
 
   useEffect(() => {
-    console.tron.log('Entrou!');
-
-    async function storeData() {
+    const saveData = async () => {
       try {
-        if (users.length !== 0) {
+        if (users.length != 0) {
           await AsyncStorage.setItem('@users', JSON.stringify(users));
         }
-      } catch (e) {
-        // saving error
-      }
-    }
-    storeData();
+      } catch (e) {}
+    };
+    saveData();
   }, [users]);
 
   const handleAddUser = async () => {
@@ -66,11 +59,12 @@ const Main = () => {
     };
 
     setUsers([...users, data]);
-    setNewUser([newUser, {username: ''}]);
-
-    usernameInputRef.current.clear();
-    Keyboard.dismiss();
     setLoading(false);
+
+    setNewUser([newUser, {username: ''}]);
+    usernameInputRef.current.clear();
+
+    Keyboard.dismiss();
   };
 
   return (
