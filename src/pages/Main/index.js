@@ -19,7 +19,7 @@ import {
 } from './styles';
 import api from '../../services/api';
 
-const Main = () => {
+const Main = ({navigation}) => {
   const [users, setUsers] = useState([]);
   const [newUser, setNewUser] = useState({username: ''});
   const [loading, setLoading] = useState(false);
@@ -73,6 +73,10 @@ const Main = () => {
     setUsers([]);
   };
 
+  const handleNavigation = user => {
+    navigation.navigate('User', {user});
+  };
+
   return (
     <Container>
       <Form>
@@ -103,7 +107,10 @@ const Main = () => {
             <Name>{item.name}</Name>
             <Bio>{item.bio}</Bio>
 
-            <ProfileButton onPress={() => {}}>
+            <ProfileButton
+              onPress={() => {
+                handleNavigation(item);
+              }}>
               <ProfileButtonText>Ver Perfil</ProfileButtonText>
             </ProfileButton>
           </User>
