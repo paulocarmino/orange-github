@@ -33,6 +33,10 @@ const User = ({navigation}) => {
     getData();
   }, [user.login]);
 
+  const handleNavigation = repo => {
+    navigation.navigate('Repo', {repo});
+  };
+
   return (
     <Container>
       <Header>
@@ -48,7 +52,7 @@ const User = ({navigation}) => {
           data={stars}
           keyExtractor={star => String(star.id)}
           renderItem={({item}) => (
-            <Starred>
+            <Starred onPress={() => handleNavigation(item)}>
               <OwnedAvatar source={{uri: item.owner.avatar_url}} />
               <Info>
                 <Title>{item.name}</Title>

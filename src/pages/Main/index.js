@@ -2,6 +2,7 @@ import React, {useState, useRef, useEffect} from 'react';
 import {Keyboard, ActivityIndicator} from 'react-native';
 import AsyncStorage from '@react-native-community/async-storage';
 import Icon from 'react-native-vector-icons/MaterialIcons';
+import IconTrash from 'react-native-vector-icons/MaterialCommunityIcons';
 
 import {
   Container,
@@ -91,7 +92,7 @@ const Main = ({navigation}) => {
         />
         <SubmitButton loading={loading} onPress={() => handleAddUser()}>
           {loading ? (
-            <ActivityIndicator />
+            <ActivityIndicator color="#fff" />
           ) : (
             <Icon name="add" size={20} color="#fff" />
           )}
@@ -118,7 +119,7 @@ const Main = ({navigation}) => {
       />
       {users.length > 0 && (
         <ClearButton onPress={() => handleClearList()}>
-          <ProfileButtonText>Limpar Lista</ProfileButtonText>
+          <IconTrash name="trash-can-outline" size={20} color="#fff" />
         </ClearButton>
       )}
     </Container>
