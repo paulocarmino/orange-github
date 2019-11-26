@@ -88,12 +88,9 @@ export const ProfileButtonText = styled.Text`
 `;
 
 export const ClearButton = styled(RectButton)`
-  margin-top: 10px;
-  width: 40px;
-  align-self: center;
-  border-radius: 4px;
-  background: #ed4f3f;
   justify-content: center;
   align-items: center;
-  height: 36px;
+  /* background: #ed4f3f; */
+  margin-left: 5px;
+  padding: 0 5px;
 `;

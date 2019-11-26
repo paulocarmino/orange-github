@@ -97,6 +97,11 @@ const Main = ({navigation}) => {
             <Icon name="add" size={20} color="#fff" />
           )}
         </SubmitButton>
+        {users.length > 0 && (
+          <ClearButton onPress={() => handleClearList()}>
+            <Icon name="refresh" size={20} color="#ed4f3f" />
+          </ClearButton>
+        )}
       </Form>
 
       <List
@@ -117,11 +122,6 @@ const Main = ({navigation}) => {
           </User>
         )}
       />
-      {users.length > 0 && (
-        <ClearButton onPress={() => handleClearList()}>
-          <IconTrash name="trash-can-outline" size={20} color="#fff" />
-        </ClearButton>
-      )}
     </Container>
   );
 };
